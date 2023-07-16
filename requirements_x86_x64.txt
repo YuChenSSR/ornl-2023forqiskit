@@ -1,0 +1,9 @@
+
+qiskit==0.43.1
+qiskit-terra==0.24.1
+qiskit-aer==0.12.0
+qiskit-ibm-provider==0.6.1
+qiskit-ibm-runtime==0.11.2
+mthree==2.5.1
+matplotlib
+pylatexenc
